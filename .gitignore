@@ -1,0 +1,11 @@
+# Environment variables
+.env
+
+# Python virtual environments & cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Streamlit logs
+.streamlit/
